@@ -1,0 +1,53 @@
+body{
+    /* background-color: #042430; */
+    margin: 0;
+    padding: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#main-heading{
+    /* color: rgb(28, 161, 161); */
+    color: #060533;
+    font-size: 100px;
+    text-align: center;
+    font-style: italic;
+}
+
+.player{
+    color: rgb(8, 92, 92);
+    font-size: 40px;
+    text-align: center;
+    font-style: italic;
+    display: inline;
+    padding:120px;
+    font-weight: bold;
+}
+
+ul :first-child{
+    margin-left: 320px;
+}
+
+img{
+    width: 8%;
+}
+
+.one, .two, .three, .four, .five, .six, .one-p2, .two-p2, .three-p2, .four-p2, .five-p2, .six-p2{
+    width: 280px;
+    height: 280px;
+    border-radius: 5%;
+    margin: 5% 14% 0% 15%;
+    display: inline-block;
+    font-size: 40px;
+    color: white;
+    font-style: bold;
+    text-align: center;
+}
+
+.hide{
+    display: none;
+}
+
+div img{
+    width: 100%;
+}
+
